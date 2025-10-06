@@ -1,5 +1,5 @@
 AT nozzle brush for printers built with 2020 extrusions.![AT_Brush](https://github.com/user-attachments/assets/42be7bab-49e9-48b1-a68f-b1c4a38c855b)
-#BOM#
+# For Jabberwocky toolhead use [a1-brush-JW](https://github.com/ArmoredTurtle/AFC-Accessories/blob/main/AT_Brush/STLs/a1-brush-JW.stl)
 | Part  | QTY |
 | ------------- | ------------- |
 | M5 Rollnut | 2  |
@@ -13,3 +13,4 @@ AT nozzle brush for printers built with 2020 extrusions.![AT_Brush](https://gith
 
 *Currently supported: A1 style silicone brush, A1 mini style silicone brush, brass bristle brush (It is illadvised to be use a brass wire brush with Z probes such as Beacon or Cartographer).
 
+Acknowledgements: Discord user Booboolicious - a1-brush-JW
